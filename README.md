@@ -1,5 +1,5 @@
 # Cryptocurrencies-Price-Prediction-using-LSTM-Neural-Network-model
-##### Empirical study on applying Long Short-Term Memory (LSTM) model to predict five major cryptocurrencies that are: Bitcoin (BTC), Ethereum (ETH), Cardano (ADA), Solana (SOL) and Polkadot (DOT).
+#### Empirical study on applying Long Short-Term Memory (LSTM) model to predict five major cryptocurrencies that are: Bitcoin (BTC), Ethereum (ETH), Cardano (ADA), Solana (SOL) and Polkadot (DOT).
 
 The purpose of this research is to forecast the price of five different cryptocurrencies through a Long Short-Term memory approach and evaluate the accuracy of the prediction. The cryptocurrency market is heavily influenced by a multitude of variables, which makes digital assets extremely volatile. However, thanks to the enormous volume of data available, a detailed study using the proper neural network algorithm model will provide a precise price prediction. Therefore, the empirical project proposed is focused on price and consider it as a variable for forecasting. For this goal, a LSTM model is developed. The latter does not predict the future, but it can suggest a broad trend and the overall direction in which to expect price movement of the cryptocurrencies utilized. 
 
